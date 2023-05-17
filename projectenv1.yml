@@ -1,5 +1,0 @@
-name: projectenv1
-dependencies:
-  - numpy
-  - matplotlib
-  - pandas
